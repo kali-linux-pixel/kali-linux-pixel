@@ -90,20 +90,7 @@ root@kali:~# status
 ## `github_stats`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kali-linux-pixel&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39ff14&text_color=c9d1d9&icon_color=39ff14" />
   <img height="170" src="https://streak-stats.demolab.com?user=kali-linux-pixel&theme=black-ice&hide_border=true&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&background=000000" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kali-linux-pixel&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39ff14&text_color=c9d1d9" />
-</div>
-
----
-
-## `activity_graph`
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kali-linux-pixel&bg_color=000000&color=39ff14&line=39ff14&point=00ff88&area=true&hide_border=true" />
 </div>
 
 ---
