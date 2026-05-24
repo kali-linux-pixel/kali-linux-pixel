@@ -1,62 +1,145 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=400&height=200&lines=KALI-LINUX-PIXEL;%3C%2F%3E+CyberSecurity+Enthusiast+%F0%9F%91%BE;FullStack+Developer+%F0%9F%92%BB;Building+in+the+dark+%E2%9C%A8." alt="Typing SVG"/>
+<!-- REEMPLAZA: Kali.exe, kali-linux-pixel, Initializing system... [██████████] 100% 🔐 Cyber Ops 🧠 Backend & Security ⚡ Kali Linux User 🐧 Linux • Python • NodeJS, kalilinux20060325@gmail.com -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:0b0f0b,100:071f0a&height=180&section=header&text=KALI-LINUX-PIXEL&fontColor=39ff14&fontSize=42&animation=fadeIn&fontAlignY=42&desc=CyberSecurity%20Enthusiast%20|%20Fullstack%20Developer%20|%20Linux%20User&descAlignY=68&descSize=16" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=%3E+Initializing+system...;%3E+Loading+modules...;%3E+Access+granted...;%3E+Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?Kali.exe=Kali.exe&label=VISITORS&color=39ff14&style=for-the-badge)
+![](https://img.shields.io/github/followers/Kali.exe?label=FOLLOWERS&style=for-the-badge&color=0d1117&labelColor=39ff14)
+![](https://img.shields.io/github/stars/Kali.exe?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0d1117&labelColor=39ff14)
+
+</div>
+
+---
+
+```bash
+root@kali:~# whoami
+kali-linux-pixel
+
+root@kali:~# cat role.txt
+Fullstack Developer | Linux User | Cybersecurity Enthusiast
+
+root@kali:~# status
+[✓] system initialized
+[✓] repositories loaded
+[✓] contribution mode active
+```
+
+<table>
+<tr>
+<td width="32%" valign="top">
+
+<img src="https://github.com/Kali.exe.png" width="100%" alt="profile"/>
+
+### `Kali.exe`
+
+- Usuario: `Kali.exe`
+- SO: `Kali Linux / Ubuntu`
+- Estado: `Online`
+- Enfoque: `Web Dev + Security`
+- Lenguajes: `PHP, JS, Python`
+
+### `about_me.log`
+
+- Construyo proyectos web funcionales
+- Me gusta Linux y la automatización
+- Trabajo con backend, frontend y bases de datos
+- Siempre aprendiendo algo nuevo
+
+</td>
+<td width="68%" valign="top">
+
+## `< ACCESS GRANTED />`
+
+> “Initializing system... [██████████] 100% 🔐 Cyber Ops 🧠 Backend & Security ⚡ Kali Linux User 🐧 Linux • Python • NodeJS”
+
+### `system_status`
+
+```txt
+[✓] Linux loaded
+[✓] Matrix stream online
+[✓] Access granted
+[✓] Mission: build, break, learn
+```
+
+### `tech_stack`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,python,js,nodejs,php,laravel,mysql,git,docker,github,vscode,bootstrap&theme=dark" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/TU-USUARIO">
-    <img src="https://github.com/TU-USUARIO/TU-USUARIO/assets/TU-USUARIO/TU-ID-DE-BANNER" alt="Banner Image" width="100%"/> 
-  </a>
-  <!-- NOTA: Puedes usar cualquier banner que te guste o la imagen de Kali.exe del ejemplo -->
-</p>
+### `currently_working_on`
 
-<p align="center">
-  <a href="https://github.com/TU-USUARIO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&lines=%3E+Initializing+system...;+KaliStream+Online;+%5Bv%5D+Access+Granted;" /></a>
-</p>
+- Sistemas web y dashboards
+- Proyectos con Laravel / PHP
+- Automatización y herramientas con Linux
+- Mejorando backend y diseño de interfaces
 
-<table align="center">
-  <tr>
-    <td>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&theme=radical&show_icons=true&hide_border=true&count_private=true&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" alt="GitHub Stats"/>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&theme=radical&hide_border=true&layout=compact&title_color=00FF00&text_color=FFFFFF" alt="Top Languages"/>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-         <img src="https://github-readme-streak-stats.herokuapp.com?user=TU-USUARIO&theme=radical&border=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&dates=00FF00" alt="Streak Stats"/>
-      </p>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-### 🛠️ Tech Stack & Tools
+---
+
+## `github_stats`
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?Kali.exe=Kali.exe&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39ff14&text_color=c9d1d9&icon_color=39ff14" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Kali.exe&theme=black-ice&hide_border=true&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&background=000000" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?Kali.exe=Kali.exe&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39ff14&text_color=c9d1d9" />
+</div>
+
+---
+
+## `activity_graph`
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?Kali.exe=Kali.exe&bg_color=000000&color=39ff14&line=39ff14&point=00ff88&area=true&hide_border=true" />
+</div>
+
+---
+
+## `contribution_snake`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kali.exe/Kali.exe/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
+## `achievements`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?Kali.exe=Kali.exe&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+## `connect.sh`
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <a href="https://github.com/Kali.exe" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-39ff14?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-39ff14?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+  <a href="mailto:kalilinux20060325@gmail.com">
+    <img src="https://img.shields.io/badge/Email-39ff14?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
 </p>
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
+---
 
-<p align="center">
-  <i>"The quieter you become, the more you are able to hear." - Kali Mindset</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/TU-USUARIO/count.svg?" alt="Visit Counter" />
-</p>
+### `KEEP CODING. KEEP HACKING. STAY ANONYMOUS.`
 
-<p align="center">
-  KEEP CODING. KEEP HACKING. STAY ANONYMOUS.
-</p>
+`© Total Profile Views: 247`
+
+</div>
